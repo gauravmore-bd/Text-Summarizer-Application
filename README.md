@@ -52,7 +52,6 @@ python summarizer.py
 ### 2. **Folder Structure**
 
 ```markdown
-## 📁 Folder Structure
 ```
 text-summarizer-app/
 │
