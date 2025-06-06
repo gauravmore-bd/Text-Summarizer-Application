@@ -52,7 +52,7 @@ python summarizer.py
 ### 2. **Folder Structure**
 
 ```markdown
-```
+
 text-summarizer-app/
 │
 ├── summarizer.py # Main Python GUI app
@@ -60,7 +60,7 @@ text-summarizer-app/
 ├── README.md # Project documentation
 ├── .gitignore # Git ignore rules
 └── assets/ # (Optional) images/icons/screenshots
-
+```
 ## 🚚 Deployment (Desktop Executable)
 
 ### 1. Install PyInstaller
