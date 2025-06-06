@@ -29,16 +29,6 @@ A desktop-based Text Summarization application built using **Python**, **Tkinter
 ```bash
 git clone https://github.com/gauravmore-bd/text-summarizer-app.git
 cd text-summarizer-app
-
-## 🚚 Deployment (Desktop Executable)
-
-To deploy the app as a standalone `.exe` (Windows):
-
-### 1. Install PyInstaller
-```bash
-pip install pyinstaller
-
-
 ```
 ## 🖥️ How to Run
 
