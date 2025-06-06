@@ -78,7 +78,6 @@ pyinstaller --onefile summarizer.py
 ### 5. **Features**
 
 ```markdown
-## 🚀 Features
 
 - Upload `.txt` files or input raw text  
 - Summarize large paragraphs using NLP  
