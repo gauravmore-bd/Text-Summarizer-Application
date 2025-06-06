@@ -39,6 +39,50 @@ To deploy the app as a standalone `.exe` (Windows):
 pip install pyinstaller
 
 
+```
+## 🖥️ How to Run
+
+Run the application using Python:
+
+```bash
+python summarizer.py
+
+---
+```
+### 2. **Folder Structure**
+
+```markdown
+## 📁 Folder Structure
+```
+text-summarizer-app/
+│
+├── summarizer.py # Main Python GUI app
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+├── .gitignore # Git ignore rules
+└── assets/ # (Optional) images/icons/screenshots
+
+## 🚚 Deployment (Desktop Executable)
+
+### 1. Install PyInstaller
+```bash
+pip install pyinstaller
+
+```
+### Create Executable
+```bash
+pyinstaller --onefile summarizer.py
+```
+
 ---
 
+### 5. **Features**
 
+```markdown
+## 🚀 Features
+
+- Upload `.txt` files or input raw text  
+- Summarize large paragraphs using NLP  
+- Adjustable summary length with sliders  
+- Real-time progress feedback  
+- User-friendly Tkinter GUI  
